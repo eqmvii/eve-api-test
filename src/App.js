@@ -42,7 +42,7 @@ class App extends Component {
     
     return (
       <div className="App">
-        <p>Hello, user. Why don't you lgin?</p>
+        <p>Hello, user. Why don't you login?</p>
         <p>Server response: {this.state.data} </p>
         <a href={sso_query}>
           <img src="https://images.contentful.com/idjq7aai9ylm/4PTzeiAshqiM8osU2giO0Y/5cc4cb60bac52422da2e45db87b6819c/EVE_SSO_Login_Buttons_Large_White.png?w=270&h=45" />

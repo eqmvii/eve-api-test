@@ -76,7 +76,7 @@ app.use(function (req, res, next) {
                 access_token = res.access_token;
                 refresh_token = res.refresh_token;
                 console.log("Access token: " + access_token);
-                console.log("Refresh token: " + access_token);
+                console.log("Refresh token: " + refresh_token);
 
             })
             .catch(error => {console.log(error)})
