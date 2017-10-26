@@ -1,3 +1,10 @@
+# A test application for the Eve ESI API
+
+This is my sandbox code for figuring out how to use the API for developing other tools
+
+
+________
+
 # EQMVII-React-Express-Starter
 
 This is a starter for a simple express server connected to a React front end prepped for Heroku deployment. The React front end can be developed using the Create React App hot reloading dev server, then built and deployed and served from the backend server for deployment on Heroku. 
